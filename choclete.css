@@ -1,0 +1,48 @@
+#black{
+    position: absolute;
+    background-color: black;
+    width: 400px;
+    height: 210px;
+}
+.cubes{
+    position: absolute;
+    background-color: #66320E;
+    width: 96px;
+    height: 100px;
+}
+#cube1{
+left: 2px;
+top: 2px;
+}
+#cube2{
+left: 102px;
+top: 2px;
+}
+#cube3{
+left: 202px;
+top: 2px;
+}
+#cube4{
+left: 302px;
+top: 2px;
+}
+#cube5{
+left: 2px;
+top: 108px;
+}
+#cube6{
+left: 102px;
+top: 108px;
+}
+#cube7{
+left: 202px;
+top: 108px;
+}
+#red{
+    position: absolute;
+    background-color: #c40f0f;
+    width: 398px;
+    height: 2px;
+    top: 104px;
+    left: 1px;
+}
